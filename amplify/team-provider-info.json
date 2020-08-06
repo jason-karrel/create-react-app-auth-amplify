@@ -1,0 +1,20 @@
+{
+    "devi": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-authcra-devi-141912-authRole",
+            "UnauthRoleArn": "arn:aws:iam::448543839698:role/amplify-authcra-devi-141912-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::448543839698:role/amplify-authcra-devi-141912-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-authcra-devi-141912-deployment",
+            "UnauthRoleName": "amplify-authcra-devi-141912-unauthRole",
+            "StackName": "amplify-authcra-devi-141912",
+            "StackId": "arn:aws:cloudformation:us-east-1:448543839698:stack/amplify-authcra-devi-141912/cd63b240-d7ef-11ea-8bd1-12cd1b220bcb",
+            "AmplifyAppId": "dofpqagrq16r5"
+        },
+        "categories": {
+            "auth": {
+                "cognitocf0c6096": {}
+            }
+        }
+    }
+}
